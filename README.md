@@ -61,7 +61,7 @@ Your npm will point to your Nexus instance.
 **Original page**: https://blog.sonatype.com/using-nexus-3-as-your-repository-part-2-npm-packages
 # Installing npm packages
 
-## 2. Configuring your clients and projects to use your Nexus repos
+## 1. Configuring and installing your package
 You can replace your host and your auth in this command and then create a *.npmrc* file at your project’s root with:
 
 ```
